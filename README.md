@@ -1,6 +1,7 @@
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/phearunum/phearunum/blob/main/header.png"><img src="https://github.com/phearunum/phearunum/raw/main/header.png" alt="" style="max-width: 100%;"></a>
 <h1 align="center">Hi 👋, I'm Manh Hung</h1>
 <h3 align="center">This my github :3</h3>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/phearunum/phearunum/blob/main/header.png"><img src="https://github.com/phearunum/phearunum/raw/main/header.png" alt="" style="max-width: 100%;"></a>
+
 <img align= "right" alt="MewMew" Width="400" src="https://orionfoysal.github.io/assets/images/git.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manhhung3004&label=Profile%20views&color=0e75b6&style=flat" alt="manhhung3004" /> </p>
